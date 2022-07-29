@@ -13,3 +13,7 @@
 - /options/:id/delete (To delete an option)
 - /options/:id/add_vote (To increment the count of votes)
 - /questions/:id (To view a question and it’s options)
+
+### instalation guide
+- after cloning the git repo 
+-`npm i`
